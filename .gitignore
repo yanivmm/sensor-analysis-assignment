@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
+
+# Environment and virtualenv
+.env
+*.env
+.venv/
+*.venv
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Jupyter runtime
+*.nbconvert.ipynb
+*.local/share/jupyter/
+
+# System files
+Thumbs.db
+Desktop.ini
+
+# IPython and Jupyter config
+.ipython/
+.jupyter/
