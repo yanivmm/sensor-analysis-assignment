@@ -115,6 +115,7 @@ probs = model.predict_proba(df_inf)
 3. Perform EDA to understand dataset differences.
 4. Suggest an immediate workaround.
 5. Propose a long-term fix.
+6. At the end of the example.ipynb notebook, you’ll find a section titled Questions to Reflect On. You are required to provide clear answers to all these questions as part of your analysis.
 
 ---
 
