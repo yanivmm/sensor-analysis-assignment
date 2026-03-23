@@ -1,7 +1,7 @@
 # 🚦 [Sensor Analysis Assignment](./example.ipynb)
 
 ---
-![Preview](./car_sensorimage.jpg)
+![Preview](./car_sensorimage.png)
 
 This repository contains my solution for a sensor data analysis task
 
