@@ -1,16 +1,23 @@
-# Sensor Analysis Assignment
+# 🚦 [Sensor Analysis Assignment](./example.ipynb)
 
-This repository contains my completed submission for the Sensor Analysis assignment.
+---
+![Preview](./assets/preview.png)
+This repository contains my solution for a sensor data analysis task
 
-## 📌 Contents
+## 📌 This notebook includes:
 
-- `example.ipynb` — Full analysis for Part 1: Model Evaluation and Data Insights
-- `stop_sign_annotation_protocol.md` — Annotator instruction guide for Part 2: Stop Sign Behavior
+- Data exploration and preprocessing
+- Feature analysis
+- Visualizations and insights
+- Clear reasoning behind decisions
 
-## ✅ Submission Notes
+---
 
-- The repository is public.
-- Files are located in the root directory for easy access.
-- Please contact me at yanivmaimon18@gmail.com for any questions or clarifications :) .
+## 🔍 What I Demonstrated
 
-Thanks for reviewing my submission !
+- Structured analytical thinking
+- Data cleaning and preparation
+- Insight generation from raw sensor data
+- Visualization for decision-making
+- Clear documentation of process
+
